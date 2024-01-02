@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OZAVIZEO
+- 👋 Hi, I’m @OZAVIZE
 - 👀 I’m interested in Business and Data analysis
 - 🌱 I’m currently working on capstone project with Google Data analytic certificate
 - 💞️ I’m looking to collaborate with other Data analysts
@@ -7,4 +7,4 @@
 zavizjuicy232@gmail.com
 
 <!---
-OZAVIZEO/
+
